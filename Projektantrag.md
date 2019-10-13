@@ -9,8 +9,9 @@ Projekthintergrund:
 Wir wollen einen VR Erfahrung  erschaffen da kamen wir auf die Idee einen Virtuelen Escape Room zu erstellen.
 
 Endergebnis:
-Am Ende soll es in VR, auf einer Oculus VR Brille, einen spielbaren Escape Room geben wo man Rätsel lösen muss das man den Raum verlassen kann.
+
+Am Ende soll es in VR, auf einer Oculus VR Brille, einen spielbaren Escape Room geben wo man RÃ¤tsel lÃ¶sen muss das man den Raum verlassen kann.
 
 Zielkriterien:
 
-Es soll einen Raum geben in dem man Rätsel lösen muss um verschiedene Hinweiße zum nächsten Rätsel zu erhalten bis man den Schlüssel bekommt um den Raum zu verlassen
+Es soll einen Raum geben in dem man RÃ¤tsel lÃ¶sen muss um verschiedene HinweiÃŸe zum nÃ¤chsten RÃ¤tsel zu erhalten bis man den SchlÃ¼ssel bekommt um den Raum zu verlassen
