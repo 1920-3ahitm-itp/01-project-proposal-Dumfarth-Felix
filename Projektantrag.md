@@ -3,6 +3,10 @@
 ### 10.10.2019
 Syt 2019/20, Version 1.0  
 Projekt-Bezeichnung: Escape Room VR
+Projektmitglieder:
+Dumfarth Felix
+Feichtinger Sarah
+Daniela Plöchel
 
 Projekthintergrund:
 
