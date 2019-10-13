@@ -10,7 +10,7 @@ Dumfarth Felix
 
 Feichtinger Sarah
 
-Daniela Plöchel
+Plöchl Daniela
 
 #### Projekthintergrund:
 
